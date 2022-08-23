@@ -1,8 +1,8 @@
-PWD //wsl.localhost/Ubuntu/home/gany/resume
+PWD //wsl.localhost/Ubuntu/home/gany/resume_template
 INPUT c:/texlive/2022/texmf.cnf
 INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT //wsl.localhost/Ubuntu/home/gany/resume/main.tex
+INPUT //wsl.localhost/Ubuntu/home/gany/resume_template/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
