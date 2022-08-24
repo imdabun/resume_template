@@ -7,7 +7,7 @@ However, this setup also has many problems
 
 ![Alt text](res/msword_problems.png?raw=true "msword_problems")
 
-As can be seen, when you have multiple versios of your resume - or even multiple resumes for different applications, this can get really annoying without some kind of version control, which git provides. 
+As can be seen, when you have multiple versions of your resume - or even multiple resumes for different applications, this can get really annoying without some kind of version control, which git provides. 
 
 The second issue is that different versions of MS Word will display slightly different formatting - something you do not want. 
 
