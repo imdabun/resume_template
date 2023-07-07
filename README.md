@@ -1,5 +1,7 @@
 # Resume Template
 
+This was created for the benefit of students unfamiliar with git/version control and are starting out in building their resumes in college.
+
 ## Why?
 The most common tool used for resumes is a word editor like Microsoft Word. It has the benefit of being convenient, accessible and generally hassle-free. 
 
